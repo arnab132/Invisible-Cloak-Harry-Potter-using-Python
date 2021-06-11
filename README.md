@@ -2,7 +2,7 @@
 
 Invisibility Cloak
 
-Let us create our own invisibility cloak using python's opencv package.
+Let us create our own invisibility cloak using python's Opencv package.
 
 Features:
 
