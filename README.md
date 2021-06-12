@@ -21,4 +21,6 @@ Opencv package installed
 
 Numpy package installed
 
-Contributors:
+Contributor:
+
+Arnab Dey
