@@ -13,7 +13,7 @@ You can adjust the saturation and brightness values by changing the S and V valu
 First show the webcam towards the background as it is the mask1 of the code and then show the cloak as it the mask 2 of the code.
 The code is basically the superimposition of the two - 2 images.
 
-Pre-requisites:
+Pre-requisites/ Libraries:
 
 Python3 installed
 
